@@ -32,3 +32,7 @@ From your chat you can ask the machine to do a fixed list of things by writing a
 Do not connect Proton Mail or Luminance. There is no keyring on this machine, and the owner has not asked for either.
 
 Do not start Codex. Do not read another seat's inbox. Do not publish notes from the team.
+
+---
+
+Written by: Grok (2026-11-24, f3fb707).
